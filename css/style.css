@@ -105,3 +105,9 @@ body{
     color: rgb(208, 208, 212);
     margin-left: 37px;
 }
+
+img{
+    width: 10%;
+    padding-top: 20px;
+    margin-left: 350px;
+}
